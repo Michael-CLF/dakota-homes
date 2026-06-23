@@ -1,0 +1,21 @@
+:root {
+  --bg-primary: #0f172a;
+  --bg-secondary: #1e293b;
+
+  --text-primary: #ffffff;
+  --text-secondary: #cbd5e1;
+
+  --accent: #d4af37;
+
+  --card-bg: #1e293b;
+  --border-color: #334155;
+}
+
+body {
+  background: var(--bg-primary);
+  color: var(--text-secondary);
+}
+
+.hero-title {
+  color: var(--text-primary);
+}
